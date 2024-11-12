@@ -4,3 +4,4 @@
   * membuat ES6
   * Framework javascript  
 - menggunakan PHP backend
+- belajar sql dan syntax nya

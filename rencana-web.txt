@@ -4,6 +4,7 @@
   * membuat ES6
   * Framework javascript  
     - Vue
+    - react
 - menggunakan PHP backend
     -Laravel
 - belajar sql dan syntax nya

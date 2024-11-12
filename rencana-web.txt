@@ -1,0 +1,4 @@
+- membuat html bertema perpustakaan 
+- membuat css design yang bagus dan responsive
+- membuat java script untuk membuat web hidup
+- menggunakan PHP backend

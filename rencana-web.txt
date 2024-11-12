@@ -3,8 +3,9 @@
 - membuat java script untuk membuat web hidup
   * membuat ES6
   * Framework javascript  
-    - angular
+    - Vue
     - react
 - menggunakan PHP backend
-    - Laravel
+    -Laravel
 - belajar sql dan syntax nya
+- Python
